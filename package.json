@@ -81,7 +81,7 @@
     "jszip": "^3.1.5",
     "localforage": "^1.7.2",
     "lodash": "^4.17.11",
-    "marks-pane": "github:mlibrary/marks#patched",
+    "marks-pane": "conorom/marks#patched",
     "path-webpack": "0.0.3",
     "stream-browserify": "^2.0.1",
     "xmldom": "^0.1.27"
